@@ -1,0 +1,5 @@
+git config --global user.name "udud07"
+git git config --global user.email dmytrykudud@gmail.com
+git status
+git add .
+git commit -m "First commit"git add .
